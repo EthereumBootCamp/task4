@@ -1,0 +1,26 @@
+{
+  "name": "jwt-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BushraAlabsi/JWT-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BushraAlabsi/JWT-practice/issues"
+  },
+  "homepage": "https://github.com/BushraAlabsi/JWT-practice#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "jsonwebtoken": "^8.3.0",
+    "mongoose": "^5.3.10",
+    "nodemon": "^1.18.6"
+  }
+}
